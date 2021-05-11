@@ -1,0 +1,19 @@
+1. Display options for user to pick from
+2. Get the user to enter an option
+3. Debugg - Check to make sure user entered in an acceptable option
+4. If option is acceptable, display results
+
+
+Check your Balance
+1. Display in console the amount of the total Balance
+2. ask user for an option 
+
+Make a deposit
+1. ask the user for an amount
+2. Debugg - Make sure amount is greater than 0
+3. Debugg - Make sure the user is entering in digits only
+4. Debugg - Remove extra symbols if necessary ($ ,)
+5. Add deposit amount to total balance 
+6. Display new balance
+7. Ask user for an option
+
